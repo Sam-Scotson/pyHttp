@@ -6,7 +6,7 @@
  $ mkdir cgi-bin/
 
 #hosting cgi scripts
- $chmod +x cgi-bin/example.py
+ $ chmod +x cgi-bin/example.py
 
 #http password directory config
  $ mkdir private/ public/
